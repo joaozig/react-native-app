@@ -10,4 +10,48 @@ dependencies: \
   /Users/joaoricardo/dev/react-native/firstapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
   /Users/joaoricardo/dev/react-native/firstapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
   /Users/joaoricardo/dev/react-native/firstapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/joaoricardo/dev/react-native/firstapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/joaoricardo/dev/react-native/firstapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h \
+  /Users/joaoricardo/dev/react-native/firstapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h

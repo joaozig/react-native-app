@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
-import { StyleSheet, View, Image, Text, TouchableOpacity, Platform } from 'react-native'
+import { StyleSheet, View, Image, Text, TouchableOpacity, Platform, Dimensions } from 'react-native'
 import Icon from 'react-native-vector-icons/Ionicons'
 import { connect } from 'react-redux'
 import { deletePlace } from '../../store/actions/index'
+import MapView, { PROVIDER_GOOGLE } from 'react-native-maps'
 
 class PlaceDetail extends Component {
   placeDeletedHandler = () => {
@@ -24,6 +25,17 @@ class PlaceDetail extends Component {
             </View>
           </TouchableOpacity>
         </View>
+        <MapView
+          provider={PROVIDER_GOOGLE}
+          style={styles.map}
+          initialRegion={{
+            ...this.props.place.location,
+            latitudeDelta: 0.0122,
+            longitudeDelta: Dimensions.get('window').width / Dimensions.get('window').height * 0.0122
+          }}
+        >
+          <MapView.Marker coordinate={this.props.place.location} />
+        </MapView>
       </View>
     )
   }
@@ -44,6 +56,10 @@ const styles = StyleSheet.create({
   },
   deleteButton: {
     alignItems: 'center'
+  },
+  map: {
+    width: '100%',
+    height: 250
   }
 })
 
